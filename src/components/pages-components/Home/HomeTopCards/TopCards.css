@@ -1,0 +1,12 @@
+.topcard {
+  margin-top: -50px;
+  overflow: hidden;
+}
+
+.orange-color {
+  color: #f78431;
+}
+
+.bg-orange {
+  background-color: #f78431;
+}

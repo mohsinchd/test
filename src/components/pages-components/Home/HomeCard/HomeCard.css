@@ -1,0 +1,25 @@
+.left-box {
+  border-bottom: 1px solid lightgray;
+  border-right: 1px solid lightgray;
+}
+.showcase-card {
+  overflow: hidden;
+}
+
+.right-box {
+  border-bottom: 1px solid lightgray;
+}
+
+.card-boxes {
+  background-color: rgb(252, 247, 247);
+}
+
+.selected-box {
+  color: #f78431;
+  border-top: 5px solid #f78431;
+}
+
+.card-boxes:hover {
+  color: #f78431;
+  cursor: pointer;
+}
